@@ -23,7 +23,7 @@ DOCTOR:
 
 HOSPITAL:
 1.	Login
-2.	Homepage
+2.	Homepage  
   a.	Available doctors
   b.	Add Doctors to the hospital
   c.	That days appointments
