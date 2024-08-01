@@ -1,0 +1,8 @@
+Session Management:
+    User logs in: 
+        In method -> sessionServlet
+        from there sessionServlet will pass on the emailId to every page...
+
+        you can remove session by session.removeAttribute("name");
+
+        
